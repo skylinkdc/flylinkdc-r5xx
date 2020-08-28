@@ -35,8 +35,8 @@
 static const string g_dev_error = "\r\nPlease send a text or a screenshot of the error to developers ppa74@ya.ru";
 static const wstring UPDATE_FILE_NAME = L"flylink.upd";
 
-static const string UPDATE_RELEASE_URL = "http://update.dchub.net/update/5xx/release";
-static const string UPDATE_BETA_URL = "http://update.dchub.net/update/5xx/beta";
+static const string UPDATE_RELEASE_URL = "";
+static const string UPDATE_BETA_URL = "";
 
 static const string UPDATE_FILE_DOWNLOAD_B = "Update5_beta.xml";
 static const string UPDATE_SIGN_FILE_DOWNLOAD_B = "Update5_beta.sign";
